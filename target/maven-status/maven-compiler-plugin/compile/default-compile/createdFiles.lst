@@ -1,0 +1,8 @@
+com/oracle/rsi/demospringbatch/CustomerItemProcessor.class
+com/oracle/rsi/demospringbatch/BatchConfiguration.class
+com/oracle/rsi/demospringbatch/RSIItemWriter.class
+com/oracle/rsi/demospringbatch/Customer.class
+com/oracle/rsi/demospringbatch/JobCompletionNotificationListener.class
+com/oracle/rsi/demospringbatch/RSIItemWriterBuilder.class
+com/oracle/rsi/demospringbatch/BatchConfiguration$1.class
+com/oracle/rsi/demospringbatch/DemoSpringBatchApplication.class

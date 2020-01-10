@@ -1,0 +1,7 @@
+/Users/psilberk/eclipse-workspace/demo-spring-batch-rsi/src/main/java/com/oracle/rsi/demospringbatch/RSIItemWriter.java
+/Users/psilberk/eclipse-workspace/demo-spring-batch-rsi/src/main/java/com/oracle/rsi/demospringbatch/BatchConfiguration.java
+/Users/psilberk/eclipse-workspace/demo-spring-batch-rsi/src/main/java/com/oracle/rsi/demospringbatch/DemoSpringBatchApplication.java
+/Users/psilberk/eclipse-workspace/demo-spring-batch-rsi/src/main/java/com/oracle/rsi/demospringbatch/JobCompletionNotificationListener.java
+/Users/psilberk/eclipse-workspace/demo-spring-batch-rsi/src/main/java/com/oracle/rsi/demospringbatch/Customer.java
+/Users/psilberk/eclipse-workspace/demo-spring-batch-rsi/src/main/java/com/oracle/rsi/demospringbatch/RSIItemWriterBuilder.java
+/Users/psilberk/eclipse-workspace/demo-spring-batch-rsi/src/main/java/com/oracle/rsi/demospringbatch/CustomerItemProcessor.java

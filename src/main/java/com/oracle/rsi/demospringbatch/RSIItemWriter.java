@@ -8,6 +8,13 @@ import org.springframework.batch.item.ItemWriter;
 
 import oracle.rsi.ReactiveStreamsIngestion;
 
+/**
+ * Custom ItemWriter.
+ * It uses RSI to stream rows into the target Oracle Database.
+ * Overrides write to publish items into RSI using a SubmissionPublisher.
+ * 
+ * @author psilberk
+ */
 public class RSIItemWriter<T> implements ItemWriter<T> {
 
   private ReactiveStreamsIngestion rsi = null;

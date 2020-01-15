@@ -7,6 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.jdbc.core.JdbcTemplate;
 
+/**
+ * Main Class to execute the ETL.
+ * 
+ * @author psilberk
+ */
 @SpringBootApplication
 public class DemoSpringBatchApplication {
 

@@ -3,6 +3,11 @@ package com.oracle.rsi.demospringbatch;
 import oracle.rsi.ReactiveStreamsIngestion;
 import oracle.rsi.internal.RSIBuilder;
 
+/**
+ * Ad-hoc RSIItemWriter builder.
+ * 
+ * @author psilberk
+ */
 public class RSIItemWriterBuilder<T> {
 
   private RSIBuilder rsiBuilder = new RSIBuilder();

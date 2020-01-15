@@ -9,6 +9,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 
+/**
+ * Simple callback to query the target database after job completion.
+ * 
+ * @author psilberk
+ */
 @Component
 public class JobCompletionNotificationListener
     extends JobExecutionListenerSupport {

@@ -4,6 +4,13 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.item.ItemProcessor;
 
+/**
+ * Simple Processor for educational purposes.
+ * It implements the Transform Phase of the ETL.
+ * It creates a new Customer upper-casing the String attributes.
+ * 
+ * @author psilberk
+ */
 public class CustomerItemProcessor
     implements ItemProcessor<Customer, Customer> {
 

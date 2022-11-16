@@ -45,7 +45,27 @@
       <groupId>org.springframework.batch</groupId>
       <artifactId>spring-batch-test</artifactId>
     </dependency>
-    <dependency>
+		<dependency>
+			<groupId>com.oracle.database.jdbc</groupId>
+			<artifactId>rsi</artifactId>
+			<version>21.1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.oracle.database.jdbc</groupId>
+			<artifactId>ojdbc11</artifactId>
+			<version>21.1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.oracle.database.jdbc</groupId>
+			<artifactId>ucp</artifactId>
+			<version>21.1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.oracle.database.ha</groupId>
+			<artifactId>ons</artifactId>
+			<version>21.1.0.0</version>
+		</dependency>
+    <!--dependency>
       <groupId>com.oracle.jdbc</groupId>
       <artifactId>rsi</artifactId>
       <version>21.1.0.1</version>
@@ -64,7 +84,7 @@
       <groupId>com.oracle.jdbc</groupId>
       <artifactId>ons</artifactId>
       <version>20.1.0.1</version>
-    </dependency>
+    </dependency-->
 	</dependencies>
 
 	<build>

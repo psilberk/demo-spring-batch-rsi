@@ -1,5 +1,5 @@
 # demo-spring-batch-rsi
-22Quick demo to use Reactive Streams Ingestion (RSI) Library as an ItemWriter in Spring Batch
+Quick demo to use Reactive Streams Ingestion (RSI) Library as an ItemWriter in Spring Batch
 
 ![](images/spring-batch-logo.png)
 
